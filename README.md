@@ -1,4 +1,4 @@
-# Attractive Advance Portfolio Website
+#  Portfolio Website
 ## _Chatting Bot Like Design (Whatsapp like interface)_
 -[Visit Link](https://shikha-code36.github.io/shikhapandey.github.io/)
 
@@ -19,4 +19,3 @@
 
 <br><br>
 
-**Free Software, Hell Yeah!**
